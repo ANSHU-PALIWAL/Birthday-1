@@ -5,6 +5,12 @@ body {
     height: 100vh;
 }
 
+.abcd {
+    position: absolute;
+    top: 20%;
+    font-size: 20px;
+}
+
 .birthday-gift {
     position: relative;
 }
